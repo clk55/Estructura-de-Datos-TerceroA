@@ -1,0 +1,13 @@
+if condi 1 se cumple then
+
+realiza ope 1;
+
+elseif la condi 2 se cumple then
+
+realiza op 2
+
+else
+
+realiza op 3;
+
+end if;
